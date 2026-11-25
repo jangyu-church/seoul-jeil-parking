@@ -1,0 +1,9 @@
+{
+  "name": "church-parking",
+  "private": true,
+  "description": "교회 주차 신청·관리 앱 (GitHub Pages + Google Apps Script + Google Sheets)",
+  "scripts": {
+    "test": "node --test tests/backend.test.js",
+    "test:e2e": "node tests/e2e.js"
+  }
+}
